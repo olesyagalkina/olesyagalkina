@@ -6,7 +6,7 @@ Sou apaixonada pela ciência, especialmente pela matemática e lógica. Na minha
 
 ### Certificações
 
-![GitHub Foundation](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)
+![GitHub Foundation](https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)  ![OCI AI](https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png)
 
 ### Ferramentas
 
