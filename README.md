@@ -1,5 +1,14 @@
- Hi, I’m Olesya Galkina, a physicist working in data science & ML.
+## ✨ Hi, I’m Olesya Galkina, a physicist working in data science & ML ✨
 
+Sou graduada em Matemática Aplicada e Ciências da Computação, com mestrado em Matemática e doutorado em Física. Tenho experiência na área de ciência de dados, programação em SQL e Python, e machine learning.
+
+Sou apaixonada pela ciência, especialmente pela matemática e lógica. Na minha tese de doutorado, investiguei as teorias de criação do Universo do ponto de vista da cosmologia e da gravitação. Essa curiosidade me levou à ciência de dados e ao machine learning. Me sinto realizada quando estou criando uma solução para um problema, e é muito satisfatório quando vejo essas análises e trabalhos se transformarem em materiais que serão implementados para ajudar outras pessoas e instituições.
+
+### Certificações
+
+![GitHub Foundation](https://www.credly.com/badges/318ab73d-a04a-4e5d-a8ce-43735d257370/public_url)
+
+### Ferramentas
 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
