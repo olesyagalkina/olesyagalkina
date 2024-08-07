@@ -6,7 +6,7 @@ Sou apaixonada pela ciência, especialmente pela matemática e lógica. Na minha
 
 ### Certificações
 
-<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width=200 height=200>  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png">   ![Google](https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png)
+<img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width=200 height=200>  <img src="https://brm-workforce.oracle.com/pdf/certview/images/OCI2024GAIOCP.png" width=240 height=240>   <img src="https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" width=200 height=200>
 
 ### Ferramentas
 
