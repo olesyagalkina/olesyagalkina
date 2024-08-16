@@ -4,6 +4,10 @@ Sou graduada em Matemática Aplicada e Ciências da Computação, com mestrado e
 
 Sou apaixonada pela ciência, especialmente pela matemática e lógica. Na minha tese de doutorado, investiguei as teorias de criação do Universo do ponto de vista da cosmologia e da gravitação. Essa curiosidade me levou à ciência de dados e ao machine learning. Me sinto realizada quando estou criando uma solução para um problema, e é muito satisfatório quando vejo essas análises e trabalhos se transformarem em materiais que serão implementados para ajudar outras pessoas e instituições.
 
+### Portfólio
+
+[Clica aqui](https://github.com/olesyagalkina/portfolio_olesya)
+
 ### Certificações
 
 [<img src="https://images.credly.com/size/340x340/images/9267a387-1a51-4ebe-8c05-976a5ec4c3d0/image.png" width=200 height=200>](https://www.credly.com/badges/efda9748-4360-4c9e-9d60-e63dc4b82d3b/public_url)
